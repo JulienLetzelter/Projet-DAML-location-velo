@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers temporaires Excel
+~$*
