@@ -1,5 +1,5 @@
 """
-Modèle Random Forest pour la prédiction du nombre de locations de vélos
+Modèle Gradient Boosting pour la prédiction du nombre de locations de vélos
 """
 
 import numpy as np
@@ -10,7 +10,7 @@ from sklearn.model_selection import cross_val_score
 
 class GradientBoostingModel:
     """
-    Classe pour le modèle Random Forest
+    Classe pour le modèle GradientBoosting
     """
 
     def __init__(
